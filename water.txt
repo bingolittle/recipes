@@ -1,0 +1,5 @@
+1 Pint Water
+2 Cubes Ice
+1 Pint Glass
+
+Pour water into glass. Add the Ice. Boom bada bing.
